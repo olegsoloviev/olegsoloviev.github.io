@@ -1,0 +1,2 @@
+/* Compatibility for existing links. Shared styles live at the site root. */
+@import url("../site.css");
